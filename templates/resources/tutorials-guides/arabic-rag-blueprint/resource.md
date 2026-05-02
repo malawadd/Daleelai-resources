@@ -15,6 +15,14 @@ sourceLabel: "Blueprint"
 sourceUrl: "https://github.com/example/arabic-rag-blueprint"
 featured: true
 createdAt: "2026-05-02"
+whyItMattersTitle: "لماذا قد تبدأ من هذا الدليل؟"
+whyItMattersPoints:
+  - title: "مخصص للعربية"
+    description: "يعالج تحديات شائعة في النصوص العربية بدل افتراض أن الإعدادات العامة تكفي."
+  - title: "عملي"
+    description: "يركز على خطوات تنفيذية مثل التنظيف والتقسيم والتقييم بدل الاكتفاء بالمفاهيم."
+  - title: "اختصاري"
+    description: "يوفر نقطة بداية واضحة تختصر وقت التجريب العشوائي عند بناء نظام RAG."
 ---
 
 ## ما الذي يميزه؟

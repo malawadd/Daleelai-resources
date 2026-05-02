@@ -15,6 +15,14 @@ sourceLabel: "Independent Blog"
 sourceUrl: "https://example.com/arabic-agent-notes"
 featured: false
 createdAt: "2026-05-02"
+whyItMattersTitle: "لماذا قد تتابع هذه المدونة؟"
+whyItMattersPoints:
+  - title: "سريعة"
+    description: "تقدم ملاحظات قصيرة وسهلة المتابعة بدل مقالات طويلة ومنهكة."
+  - title: "عملية"
+    description: "تركز على ما يحدث أثناء البناء الفعلي للأدوات والوكلاء، لا على الكلام النظري فقط."
+  - title: "مستمرة"
+    description: "مفيدة كمرجع حي تعود له دوريًا لمتابعة التغييرات والروابط الجديدة."
 ---
 
 ## لماذا نضيفه إلى الدليل؟

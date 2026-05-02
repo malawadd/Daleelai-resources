@@ -125,6 +125,14 @@ sourceLabel: "Official Source"
 sourceUrl: "https://example.com"
 featured: false
 createdAt: "2026-05-02"
+whyItMattersTitle: "عنوان مختصر يوضح سبب أهمية المورد"
+whyItMattersPoints:
+  - title: "سبب أول"
+    description: "جملة قصيرة تشرح قيمة واضحة ومباشرة."
+  - title: "سبب ثان"
+    description: "جملة قصيرة تشرح زاوية أخرى من أهمية المورد."
+  - title: "سبب ثالث"
+    description: "جملة قصيرة تشرح لماذا قد يعود المستخدم لهذا المورد."
 ---
 
 ## لماذا هذا المورد مهم؟
@@ -152,6 +160,8 @@ createdAt: "2026-05-02"
 - `sourceUrl`: الرابط الأصلي للمورد، ويجب أن يكون صحيحًا ومباشرًا قدر الإمكان.
 - `featured`: اجعلها `false` بشكل افتراضي. فريق الإدارة يقرر ما إذا كان المورد مميزًا.
 - `createdAt`: تاريخ بصيغة `YYYY-MM-DD`.
+- `whyItMattersTitle`: عنوان قصير يظهر فوق نقاط تشرح باختصار لماذا هذا المورد مهم.
+- `whyItMattersPoints`: ثلاث نقاط مختصرة، كل نقطة تحتوي `title` و`description` وتلخص القيمة العملية للمورد بسرعة.
 
 ## ماذا نكتب داخل جسم المورد؟
 

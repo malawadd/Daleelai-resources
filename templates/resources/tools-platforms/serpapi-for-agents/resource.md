@@ -15,6 +15,14 @@ sourceLabel: "Platform"
 sourceUrl: "https://serpapi.com"
 featured: true
 createdAt: "2026-05-02"
+whyItMattersTitle: "لماذا قد تعتمد على هذه الأداة؟"
+whyItMattersPoints:
+  - title: "حديثة"
+    description: "تسمح للوكيل بالوصول إلى نتائج ويب محدثة بدل الاعتماد على معرفة قديمة أو ثابتة."
+  - title: "قابلة للربط"
+    description: "سهلة الدمج داخل workflows ووكلاء يحتاجون البحث كخطوة ضمن التنفيذ."
+  - title: "مرنة"
+    description: "مناسبة لحالات استخدام متعددة مثل التحقق وجمع المصادر والبحث الأولي."
 ---
 
 ## لماذا يهم؟

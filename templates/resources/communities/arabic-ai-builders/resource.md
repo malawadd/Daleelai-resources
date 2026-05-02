@@ -15,6 +15,14 @@ sourceLabel: "Community"
 sourceUrl: "https://example.com/arabic-ai-builders"
 featured: false
 createdAt: "2026-05-02"
+whyItMattersTitle: "لماذا قد تنضم إلى هذا المجتمع؟"
+whyItMattersPoints:
+  - title: "تفاعلي"
+    description: "يعطيك مساحة مباشرة لطرح الأسئلة ومتابعة الردود بدل الاكتفاء بالقراءة الصامتة."
+  - title: "محلي"
+    description: "يجمع نقاشات وتجارب أقرب لاحتياجات المستخدمين العرب وسياقهم."
+  - title: "متجدد"
+    description: "يساعدك على التقاط الأدوات والروابط والنقاشات الجديدة أولًا بأول."
 ---
 
 ## لماذا قد تنضم؟

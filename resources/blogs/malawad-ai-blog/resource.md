@@ -16,6 +16,14 @@ sourceLabel: "Official Blog"
 sourceUrl: "https://ai.malawad.com/"
 featured: false
 createdAt: "2026-05-02"
+whyItMattersTitle: "لماذا تهم هذه المدونة؟"
+whyItMattersPoints:
+  - title: "عربية"
+    description: "تقدم محتوى تقنيًا عربيًا في مجالات متخصصة يصعب أحيانًا العثور عليها بصياغة واضحة."
+  - title: "تعليمية"
+    description: "تساعد القارئ على فهم المفاهيم والتطبيقات عبر مقالات أعمق من المنشورات السريعة."
+  - title: "متنوعة"
+    description: "تغطي موضوعات مثل الذكاء الاصطناعي والروبوتات ومعالجة اللغة الطبيعية ضمن مكان واحد."
 ---
 
 ## لماذا نضيفه إلى الدليل؟

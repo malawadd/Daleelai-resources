@@ -16,6 +16,14 @@ sourceLabel: "Reddit Community"
 sourceUrl: "https://www.reddit.com/r/Saudi_Ai/"
 featured: false
 createdAt: "2026-05-02"
+whyItMattersTitle: "لماذا يهم هذا المجتمع؟"
+whyItMattersPoints:
+  - title: "مجتمعي"
+    description: "يعكس أسئلة وتجارب المستخدمين الفعلية بدل الاكتفاء بالمحتوى التحريري الجاهز."
+  - title: "سعودي وعربي"
+    description: "مفيد لمتابعة النقاشات الأقرب للسياق المحلي واللغة العربية في استخدامات الذكاء الاصطناعي."
+  - title: "عملي"
+    description: "يسهّل اكتشاف أدوات وتجارب ونقاشات تطبيقية يمكن الاستفادة منها مباشرة."
 ---
 
 ## لماذا قد ينضم إليه المستخدم؟
